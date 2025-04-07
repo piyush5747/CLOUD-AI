@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "254743982206"
+      "value": "918881923124"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
